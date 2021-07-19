@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/MRegirouard/ChessTeamsBot/issues"
   },
-  "homepage": "https://github.com/MRegirouard/ChessTeamsBot#readme"
+  "homepage": "https://github.com/MRegirouard/ChessTeamsBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
